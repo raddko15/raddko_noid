@@ -1,0 +1,8 @@
+1.Configure React&Redux
+2.Test canvas there
+3.Board
+4.Ball
+5.Ball motion
+6.Paddle
+7.Paddle movements
+8.Bricks
